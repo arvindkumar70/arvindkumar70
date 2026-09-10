@@ -50,5 +50,8 @@ I am an IoT developer, embedded systems enthusiast, and final-year engineering s
 
 - GitHub: [arvindkumar70](https://github.com/arvindkumar70)
 - Portfolio: [arvindpotfolio](https://github.com/arvindkumar70/arvindpotfolio)
+- LinkedIn: [Arvind Kumar](https://www.linkedin.com/in/arvind-kumar-3a3225289)
+- Email: kumararvind40376@gmail.com
+- Phone: +91 7070668959
 
 ![snake](https://raw.githubusercontent.com/arvindkumar70/arvindkumar70/output/dist/github-contribution-grid-snake.svg)
