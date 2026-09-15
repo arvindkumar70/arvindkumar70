@@ -1,7 +1,7 @@
 <h2 align="center">Hi👋,I'm Arvind Kumar,a passionate Software Engineer from India</h2>
 <h3 align="center">B.Tech IT Student | Java | Python | Web Development | Spring Boot | REST APIs | MySQL | DSA</h3>
 
-- 🔭 I’m currently working on Web Development
+- 🔭 I’m currently working on **Web Development**
 
 - 👯 I’m looking to collaborate on **Web & Backend Development Projects**
 
